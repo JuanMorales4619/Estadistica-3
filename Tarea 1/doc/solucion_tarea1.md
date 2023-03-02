@@ -44,16 +44,19 @@ para calcular la correlacion entre 2 variables, podemos seguir este orden:
 |---|---|
 |2.833|2.33|
 
-- Con esto calculamos la covarianza, $ cov = \frac{\sum X*Y}{n} - \bar{x}*\bar{y} $:
+- Con esto calculamos la covarianza, $cov = \frac{\sum X*Y}{n} - \bar{x}*\bar{y}$  :
 
 cov = -2.611
 
-- Continuamos con la desviacion estandart $ dev = \sqrt{\frac{x^{2}}{n}- \bar{x}^2} $
+- Continuamos con la desviacion estandart $dev = \sqrt{\frac{x^{2}}{n}- \bar{x}^2}$ 
 
 |X1|x2|
 |---|---|
 |2.2669|1.4969|
 
+- Para finalmente aplicar la formula de la correlacion, $corr = \freac{cov}{devX*devY}$
+
+corr = -0.769
 
 ### 1.5. Explica la relación entre covarianza y correlación.
 La covarianza se entiende como el valor que relaciona el comportamiento de una variable cuando otra cambia. Por su parte, la correlación describe el comportamiento de dos variables cuando ambas cambian. Para nuestro ejemplo, tenemos una covarianza y correlación negativa, indicando que las variables son inversamente proporcionales y guardan una estrecha relación de dependencia.
