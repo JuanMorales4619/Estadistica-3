@@ -20,7 +20,7 @@ Desviación estándar
 - X1    2.483277
 - X2    1.632993
 
-### 1.2 Dibujar un boxplot a mano. Utilizando los datos de la tabla 1 y las siguientes proporciones
+### 1.2 Dibujar un boxplot a mano. Utilizando los datos de la tabla 1.
 
 ![Dibujo del boxplot](./img/boxplot.jpg)
 
@@ -30,3 +30,15 @@ Desviación estándar
 |---|---|---|
 |X1|6.166667|-3.133333|
 |X2|-3.133333|2.666667|
+
+
+### Cuál es la correlación entre la variable x1 y x2 (Calcularla a mano)
+para calcular la correlacion entre 2 variables, podemos seguir este orden:
+- calcular los datos que nos interesan como $X1*X2, X1^{2}, X2^{2}$ y la sumatoria de estos.
+
+
+
+### 1.5. Explica la relación entre covarianza y correlación.
+La covarianza se entiende como el valor que relaciona el comportamiento de una variable cuando otra cambia. Por su parte, la correlación describe el comportamiento de dos variables cuando ambas cambian. Para nuestro ejemplo, tenemos una covarianza y correlación negativa, indicando que las variables son inversamente proporcionales y guardan una estrecha relación de dependencia.
+
+### 1.6. Calcule el resultado del algoritmo K-means sobre este set de datos. Vamos a crear 2 grupos, es decir, k=2 (2 clusters).
