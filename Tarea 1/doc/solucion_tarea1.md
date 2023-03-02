@@ -44,6 +44,8 @@ para calcular la correlacion entre 2 variables, podemos seguir este orden:
 |---|---|
 |2.833|2.33|
 
+- Con esto calculamos la covarianza, $cov = \frac{\sum X*Y}{n} - \bar{x}*\bar{y}$
+
 ### 1.5. Explica la relación entre covarianza y correlación.
 La covarianza se entiende como el valor que relaciona el comportamiento de una variable cuando otra cambia. Por su parte, la correlación describe el comportamiento de dos variables cuando ambas cambian. Para nuestro ejemplo, tenemos una covarianza y correlación negativa, indicando que las variables son inversamente proporcionales y guardan una estrecha relación de dependencia.
 
