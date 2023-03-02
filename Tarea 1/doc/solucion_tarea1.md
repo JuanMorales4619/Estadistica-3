@@ -44,7 +44,7 @@ para calcular la correlacion entre 2 variables, podemos seguir este orden:
 |---|---|
 |2.833|2.33|
 
-- Con esto calculamos la covarianza, $cov = \frac{\sum X*Y}{n} - \bar{x}*\bar{y}$  :
+- Con esto calculamos la covarianza, $\var{cov}=\frac{\sum X*Y}{n}-\bar{x}*\bar{y}$  :
 
 cov = -2.611
 
@@ -54,7 +54,7 @@ cov = -2.611
 |---|---|
 |2.2669|1.4969|
 
-- Para finalmente aplicar la formula de la correlacion, $corr = \freac{cov}{devX*devY}$
+- Para finalmente aplicar la formula de la correlacion, $corr = \frac{cov}{devX*devY}$
 
 corr = -0.769
 
