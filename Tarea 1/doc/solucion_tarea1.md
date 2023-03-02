@@ -62,3 +62,5 @@ corr = -0.769
 La covarianza se entiende como el valor que relaciona el comportamiento de una variable cuando otra cambia. Por su parte, la correlación describe el comportamiento de dos variables cuando ambas cambian. Para nuestro ejemplo, tenemos una covarianza y correlación negativa, indicando que las variables son inversamente proporcionales y guardan una estrecha relación de dependencia.
 
 ### 1.6. Calcule el resultado del algoritmo K-means sobre este set de datos. Vamos a crear 2 grupos, es decir, k=2 (2 clusters).
+
+![K-means](./img/K-means.PNG)
