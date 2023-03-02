@@ -34,7 +34,8 @@ Desviación estándar
 
 ### Cuál es la correlación entre la variable x1 y x2 (Calcularla a mano)
 para calcular la correlacion entre 2 variables, podemos seguir este orden:
-- calcular los datos que nos interesan como $X1*X2, X1^{2}, X2^{2}$ y la sumatoria de estos.
+- calcular los datos que nos interesan como $X1*X2, X1^{2}, X2^{2}$ y la sumatoria de estos:
+![Tabla 1](./img/Table1.PNG)
 
 
 
