@@ -20,6 +20,13 @@ Desviación estándar
 - X1    2.483277
 - X2    1.632993
 
-### 1.2 1.2 Dibujar un boxplot a mano. Utilizando los datos de la tabla 1 y las siguientes proporciones
+### 1.2 Dibujar un boxplot a mano. Utilizando los datos de la tabla 1 y las siguientes proporciones
 
 ![Dibujo del boxplot](./img/boxplot.jpg)
+
+### 1.3 Cual es la covarianza entre las 2 variables X1, X2
+
+| |X1|x2|
+|---|---|---|
+|X1|6.166667|-3.133333|
+|X2|-3.133333|2.666667|
