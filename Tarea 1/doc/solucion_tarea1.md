@@ -35,9 +35,14 @@ Desviación estándar
 ### Cuál es la correlación entre la variable x1 y x2 (Calcularla a mano)
 para calcular la correlacion entre 2 variables, podemos seguir este orden:
 - calcular los datos que nos interesan como $X1*X2, X1^{2}, X2^{2}$ y la sumatoria de estos:
+
 ![Tabla 1](./img/Table1.PNG)
 
+- Luego calculamos el promedio de cada varible de la siguiente manera, $\bar{x} = \frac{\sum x}{n}$ :
 
+|X1|x2|
+|---|---|
+|2.833|2.33|
 
 ### 1.5. Explica la relación entre covarianza y correlación.
 La covarianza se entiende como el valor que relaciona el comportamiento de una variable cuando otra cambia. Por su parte, la correlación describe el comportamiento de dos variables cuando ambas cambian. Para nuestro ejemplo, tenemos una covarianza y correlación negativa, indicando que las variables son inversamente proporcionales y guardan una estrecha relación de dependencia.
