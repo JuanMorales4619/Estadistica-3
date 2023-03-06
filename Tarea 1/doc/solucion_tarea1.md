@@ -77,3 +77,5 @@ La covarianza se entiende como el valor que relaciona el comportamiento de una v
 
 
 ![Q-Means table](./img//Q-Means.PNG)
+
+- Se inicia con una selección aleatoria de los datos y se le asigna un grupo, a partir de aquí se calcula la posición de los centroides iniciales (2 en este caso), luego medimos la distancia de cada dato al centroide 1 y 2 y con esto actualizamos el grupo inicial de datos según cuál centroide está más cerca de cada dato. Él procesó, se repite hasta que los datos no cambien más de grupo.
