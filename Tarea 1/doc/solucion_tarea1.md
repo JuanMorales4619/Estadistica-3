@@ -3,7 +3,7 @@
 ### 1.1 ¿Cuál es la media, mediana y desviación estándar?, y la moda y los valores repeticiones de la moda para los datos categóricos.
 Media:
 
-$m = \frac{\sum x}{n}$
+para calcular la media podemos utilizar la siguiente formula:  $m = \frac{\sum x}{n}$
 
 $X1 = \frac{17}{6}$
 
@@ -15,6 +15,11 @@ $X1 = \frac{14}{6}$
 
 
 Mediana:
+La me diana es el dato que divide la muestra justo a la mitad cuando se ordena de menor a mayor. Para nuestro caso, dado que la cantidad de datos es par, lo que hacemos es sumar los datos de la mitad y dividirlos por dos de la siguiente manera.
+
+$X1 = \frac{1+4}{2}$
+
+$X1 = \frac{2+3}{2}$
 
 
 |X1|x2|
@@ -22,6 +27,7 @@ Mediana:
 |2.5|2.5|
 
 Moda:
+La moda es el dato que mas se repite, este lo podemos sacar simplemente mirando los datos.
 
 |X1|x2|
 |---|---|
