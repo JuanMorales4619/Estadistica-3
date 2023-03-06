@@ -7,7 +7,7 @@ Media:
 
 $X1 = \frac{17}{6}$
 
-$X1 = \frac{14}{6}$
+$X2 = \frac{14}{6}$
 
 |X1|x2|
 |---|---|
@@ -16,7 +16,7 @@ $X1 = \frac{14}{6}$
 
 Mediana:
 
-- La me diana es el dato que divide la muestra justo a la mitad cuando se ordena de menor a mayor. Para nuestro caso, dado que la cantidad de datos es par, lo que hacemos es sumar los datos de la mitad y dividirlos por dos de la siguiente manera.
+- La mediana es el dato que divide la muestra justo a la mitad cuando se ordena de menor a mayor. Para nuestro caso, dado que la cantidad de datos es par, lo que hacemos es sumar los datos de la mitad y dividirlos por dos de la siguiente manera.
 
 $X1 = \frac{1+4}{2}$
 
@@ -66,7 +66,7 @@ para calcular la correlacion entre 2 variables, podemos seguir este orden:
 |---|---|
 |2.833|2.33|
 
-- Y utilizando los datos de la covarianza y la desviacion estandart calculados anteriormente, Para finalmente aplicar la formula de la correlacion, $corr = \frac{cov}{devX*devY}$
+- Y utilizando los datos de la covarianza y la desviacion estandart calculados anteriormente, podemos aplicar la formula de la correlacion, $corr = \frac{cov}{devX*devY}$
 
 corr = -0.769
 
@@ -75,4 +75,5 @@ La covarianza se entiende como el valor que relaciona el comportamiento de una v
 
 ### 1.6. Calcule el resultado del algoritmo K-means sobre este set de datos. Vamos a crear 2 grupos, es decir, k=2 (2 clusters).
 
-![K-means](./img/K-means.PNG)
+
+![Q-Means table](./img//Q-Means.PNG)
