@@ -3,6 +3,12 @@
 ### 1.1 ¿Cuál es la media, mediana y desviación estándar?, y la moda y los valores repeticiones de la moda para los datos categóricos.
 Media:
 
+$m = \frac{\sum x}{n}$
+
+$X1 = \frac{17}{6}$
+
+$X1 = \frac{14}{6}$
+
 |X1|x2|
 |---|---|
 |2.833333|2.333333|
